@@ -238,7 +238,8 @@ footer {
 #contents {
   min-height: 510px;
   width: 680px;
-  float:left;
+/*  float:left;*/
+  margin: 100px 40px;
 }
 
 #contents p {
