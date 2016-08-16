@@ -164,7 +164,7 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header ul, li {
+header ul li {
   display:inline;
   text-decoration:none;
   width:120px;
