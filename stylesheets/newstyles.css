@@ -212,6 +212,7 @@ header ul a strong {
 
 section {
   width:500px;
+  float:right;
   padding-bottom:50px;
 }
 
@@ -232,6 +233,13 @@ footer {
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+#contents {
+  min-height: 510px;
+  width: 680px;
+  margin: 0 auto;
+  padding: 54px 40px;
 }
 
 @media print, screen and (max-width: 960px) {
