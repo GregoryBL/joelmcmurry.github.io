@@ -238,8 +238,7 @@ footer {
 #contents {
   min-height: 510px;
   width: 680px;
- /* margin: 0 auto;
-  padding: 100px 40px;*/
+  margin: 0 auto;
 }
 
 #contents p {
