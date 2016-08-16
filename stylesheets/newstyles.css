@@ -169,7 +169,7 @@ header ul {
   text-decoration:none;
   width:120px;
   float:left;
-  text-align:center;
+  text-align:left;
   height:40px;
 }
 
@@ -178,7 +178,7 @@ header li {
   text-decoration:none;
   width:120px;
   float:left;
-  text-align:center;
+  text-align:left;
   height:40px;
 }
 
