@@ -158,6 +158,7 @@ img {
 }
 
 header {
+  display:inline-block;
   width:800px;
   float:left;
   position:fixed;
@@ -165,7 +166,6 @@ header {
 }
 
 header ul {
-  display:inline-block;
   list-style:none;
   width:120px;
   float:left;
@@ -174,7 +174,7 @@ header ul {
 }
 
 header li {
-  display:inline-block;
+  list-style:none;
   width:120px;
   float:left;
   text-align:center;
