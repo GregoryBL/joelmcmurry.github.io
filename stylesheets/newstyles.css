@@ -172,17 +172,18 @@ header ul li {
   text-align:left;
   height:40px;
   color:#494949;
+  font-size:18px;
 }
 
 header ul li a {
   display:inline;
   text-decoration:none;
   width:120px;
-  float:center;
+  float:left;
   text-align:left;
   height:40px;
   color:#494949;
-  font-size:28px;
+  font-size:18px;
 }
 
 header ul a:hover {
