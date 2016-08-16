@@ -182,7 +182,7 @@ header li {
   height:40px;
 }
 
-header li a {
+header ul a {
   display:inline;
   text-decoration:none;
   width:120px;
