@@ -166,10 +166,10 @@ header {
 
 header ul {
   display:inline;
-  list-style:none;
+  text-decoration:none;
   width:120px;
   float:left;
-  text-align:center;
+  text-align:left;
   height:40px;
 }
 
