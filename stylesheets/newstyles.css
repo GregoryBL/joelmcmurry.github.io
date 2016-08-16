@@ -182,7 +182,7 @@ header li {
   height:40px;
 }
 
-header ul a {
+header li a {
   display:inline;
   text-decoration:none;
   width:120px;
@@ -192,7 +192,7 @@ header ul a {
 }
 
 header ul a:hover {
-  color:#999;
+  color:#000;
 }
 
 header ul a:active {
