@@ -174,8 +174,8 @@ header ul {
 }
 
 header li {
-  display:inline;
-  list-style:none;
+  display:inline; 
+  text-decoration:none;
   width:120px;
   float:left;
   text-align:center;
