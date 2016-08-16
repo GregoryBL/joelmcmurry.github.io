@@ -171,16 +171,17 @@ header ul li {
   float:left;
   text-align:left;
   height:40px;
-  color:#494949
+  color:#494949;
 }
 
-header li a {
+header ul li a {
   display:inline;
   text-decoration:none;
   width:120px;
   float:left;
   text-align:left;
   height:40px;
+  color:#494949;
 }
 
 header ul a:hover {
