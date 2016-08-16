@@ -171,6 +171,7 @@ header ul {
   float:left;
   text-align:left;
   height:40px;
+  color:#494949
 }
 
 header li {
@@ -180,6 +181,7 @@ header li {
   float:left;
   text-align:left;
   height:40px;
+  color:#494949
 }
 
 header li a {
@@ -211,7 +213,7 @@ header ul li + li + li {
 
 header ul a strong {
   font-size:14px;
-  display:block;
+  display:inline;
   color:#222;
 }
 
