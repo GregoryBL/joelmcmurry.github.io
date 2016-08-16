@@ -164,18 +164,8 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header ul {
+header ul, li {
   display:inline;
-  text-decoration:none;
-  width:120px;
-  float:left;
-  text-align:left;
-  height:40px;
-  color:#494949
-}
-
-header li {
-  display:inline; 
   text-decoration:none;
   width:120px;
   float:left;
