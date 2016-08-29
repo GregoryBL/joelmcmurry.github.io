@@ -236,15 +236,15 @@ footer {
 }
 
 #contents {
+  position: fixed;
   min-height: 510px;
   width: 680px;
-/*  float:left;*/
 margin: 100px 150px;
 }
 
 #contents p {
   font-size:16px;
-  color: #000;
+  color: #494949;
 }
 
 @media print, screen and (max-width: 960px) {
@@ -253,6 +253,11 @@ margin: 100px 150px;
     width:auto;
     margin:0;
   }
+
+  div.static {
+    position: static;
+    border: 3px solid #73AD21;
+}
 
   header, section, footer {
     float:none;
