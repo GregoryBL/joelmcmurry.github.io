@@ -165,7 +165,7 @@ header {
 }
 
 header ul li {
-  display:inline-block;
+  display:inline;
   text-decoration:none;
   width:120px;
   float:left;
@@ -176,7 +176,7 @@ header ul li {
 }
 
 header ul li a {
-  display:inline-block;
+  display:inline;
   text-decoration:none;
   width:120px;
   float:left;
